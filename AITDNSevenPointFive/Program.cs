@@ -17,6 +17,9 @@ namespace AITDNSevenPointFive
     /// A lot of the needed varibles are declared at the start of the file, are they all needed? Could more be used to clarify the code.
     /// Are there repitions in the code which can be refactored out into seperate methods to apply the DRY principle previously discussed?
     /// An answer will be forthcoming in the next couple of weeks - no cheating! Good luck.
+    /// 
+    /// OH and there a no further comments to help you out, you are on your own :-(
+    /// 
     /// </code>
 
     internal class Program
