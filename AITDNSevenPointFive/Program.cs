@@ -19,6 +19,7 @@ namespace AITDNSevenPointFive
     /// An answer will be forthcoming in the next couple of weeks - no cheating! Good luck.
     /// 
     /// OH and there a no further comments to help you out, you are on your own :-(
+    /// well..... maybe one clue the code on lines 4 and 48 are related.
     /// 
     /// </code>
 
