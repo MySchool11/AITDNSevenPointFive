@@ -1,0 +1,6 @@
+C:\Users\samue\Source\Repos\AITDNSevenPointFive\AITDNSevenPointFive\bin\Debug\AITDNSevenPointFive.exe.config
+C:\Users\samue\Source\Repos\AITDNSevenPointFive\AITDNSevenPointFive\bin\Debug\AITDNSevenPointFive.exe
+C:\Users\samue\Source\Repos\AITDNSevenPointFive\AITDNSevenPointFive\bin\Debug\AITDNSevenPointFive.pdb
+C:\Users\samue\Source\Repos\AITDNSevenPointFive\AITDNSevenPointFive\obj\Debug\AITDNSevenPointFive.csprojResolveAssemblyReference.cache
+C:\Users\samue\Source\Repos\AITDNSevenPointFive\AITDNSevenPointFive\obj\Debug\AITDNSevenPointFive.exe
+C:\Users\samue\Source\Repos\AITDNSevenPointFive\AITDNSevenPointFive\obj\Debug\AITDNSevenPointFive.pdb

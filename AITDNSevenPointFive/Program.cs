@@ -80,19 +80,19 @@ namespace AITDNSevenPointFive
 
             if (sortedFirstReversed == _firstNormal)
             {
-                returnString += "The first string is a palendrome: " + TrueString + "\n";
+                returnString += "The first string is a palindrome: " + TrueString + "\n";
             }
             else
             {
-                returnString += "The first string is a palendrome: " + FalseString + "\n";
+                returnString += "The first string is a palindrome: " + FalseString + "\n";
             }
             if (sortedSecondReversed == _secondNormal)
             {
-                returnString += "The second string is a palendrome: " + TrueString + "\n";
+                returnString += "The second string is a palindrome: " + TrueString + "\n";
             }
             else
             {
-                returnString += "The second string is a palendrome: " + FalseString + "\n";
+                returnString += "The second string is a palindrome: " + FalseString + "\n";
             }
 
             return returnString;
